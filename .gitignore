@@ -30,3 +30,4 @@ node_modules
 
 .idea/
 wp-config.php
+wp-config-live.php
